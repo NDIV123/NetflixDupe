@@ -155,6 +155,7 @@ hr{
     gap: 5rem;
 }
 
+<<<<<<< HEAD
 .page-wrapper-even {
     display: flex;
     align-items: center;
@@ -164,6 +165,8 @@ hr{
     gap: 5rem;
 }
 
+=======
+>>>>>>> 33cc0aeb68ed129d4d8fe259ae286a1c1c9597ad
 article {
     width: 100%;
 }
@@ -286,7 +289,11 @@ article p {
     color: rgb(172, 172, 172);
 }
 
+<<<<<<< HEAD
 @media screen and (max-width : 600px) {
+=======
+@media screen and (max-width : 476px) {
+>>>>>>> 33cc0aeb68ed129d4d8fe259ae286a1c1c9597ad
     .logo {
         width: 160px;
     }
@@ -344,6 +351,7 @@ article p {
         padding : 3rem .5rem;
         gap: 0;
     }
+<<<<<<< HEAD
     
     .page-wrapper-even {
         text-align: center;
@@ -356,6 +364,8 @@ article p {
         padding : 3rem .5rem;
         gap: 0;
     }
+=======
+>>>>>>> 33cc0aeb68ed129d4d8fe259ae286a1c1c9597ad
 
     .page-container{
         height: auto;
